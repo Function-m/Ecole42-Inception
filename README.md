@@ -88,6 +88,7 @@
 
 ## 참고 자료
 
+* [프로젝트 명세](subject.pdf)
 * Docker Documentation: [https://docs.docker.com/](https://docs.docker.com/)
 * Docker Compose Documentation: [https://docs.docker.com/compose/](https://docs.docker.com/compose/)
 * NGINX Documentation: [https://nginx.org/en/docs/](https://nginx.org/en/docs/)
